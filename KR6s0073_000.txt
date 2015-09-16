@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 勝宗十句義論
+#+DATE: 2015-08-31 00:08:40.911719
+#+PROPERTY: JUAN 0
