@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:40.719436
+#+DATE: 2015-08-31 00:08:41.696442
 #+TITLE: 勝宗十句義論
 #+PROPERTY: CBETA_ID T54n2138
 #+PROPERTY: ID KR6s0073
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 54, No. 2138
 #+PROPERTY: VOL 54
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6s0073_T_000-1262c>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0073_T_001-1262c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2138¶
-
- 勝宗十句義論一卷¶
+No. 2138¶
+勝宗十句義論一卷¶
 ¶
 勝者慧月造¶
 三藏法師玄奘奉　詔譯¶
