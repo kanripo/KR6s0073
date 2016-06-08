@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:41.508988
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:36
 #+TITLE: 勝宗十句義論
 #+PROPERTY: CBETA_ID T54n2138
 #+PROPERTY: ID KR6s0073
